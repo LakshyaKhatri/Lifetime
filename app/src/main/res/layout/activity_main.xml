@@ -12,7 +12,7 @@
         android:id="@+id/main_activity_toolbar_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Lifeline"
+        android:text="Lifetime"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="44sp"
