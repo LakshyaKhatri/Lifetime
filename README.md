@@ -13,7 +13,7 @@ A minimalist immutable timer application for android that can count for several 
 * After 2 decaydes when the Gradle build finishes, run the application.
 
 ## Demo
-You can check the demo video here : [Lifetime - Youtube](https://www.youtube.com/embed/7NzAc-FprVc)
+You can check the demo video here : [Lifetime - Youtube](https://youtu.be/7NzAc-FprVc)
 
 ## Contribution
 Feel free to make changes.
