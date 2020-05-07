@@ -1,6 +1,6 @@
 Lifetime
 =========
-A minimalist immutable timer application for android. I have no idea why I made this.
+A minimalist immutable timer application for android that can count for several hours. I have no idea why I made this.
 
 <img src="assets/6eb9b0a848feb8c4d5ea3af78fc716fd.jpg" alt="Lifetime Mockup" title="Lifetime" align="center"/>
 
