@@ -1,4 +1,4 @@
-Assistant
+Lifetime
 =========
 A minimalist immutable timer application for android. I have no idea why I made this.
 
