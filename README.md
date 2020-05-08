@@ -6,7 +6,7 @@ A minimalist immutable timer application for android that can count for several 
 
 ## Usage
 ### Download APK
-* You can Download the apk file by [clicking here](https://github.com/LakshyaKhatri/Lifetime/blob/master/app-debug.apk?raw=true)
+* You can Download the apk file by [clicking here](https://github.com/LakshyaKhatri/Lifetime/releases/download/v1.0/app-debug.apk)
 ### Source Code
 * Clone the repository.
 * Open it in Android Studio and hit build.
